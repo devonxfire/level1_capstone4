@@ -1,10 +1,9 @@
 
 
-# Searched for how to get the current date - https://www.programiz.com/python-programming/datetime/current-datetime
+# Searched for how to get the  current date - https://www.programiz.com/python-programming/datetime/current-datetime
 from datetime import date
 
-import os
-
+import o
 
 def start():
     # Opening user.txt in read/write mode to variable user_file
