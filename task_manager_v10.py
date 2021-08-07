@@ -1,15 +1,5 @@
 
 
-'''
-NOTE TO EVALUATER:
-
-- Updated this so that if a task is already complete, the user cannot edit it
-- I don't get a runtime error when changing a task complete from No to Yes, so not sure how to fix that, but still seems to work
-- Added percent of tasks complete per user
-- Added percent of tasks incomplete per user
-- Added users who's tasks are both incomplete and overdue
-'''
-
 # Searched for how to get the current date - https://www.programiz.com/python-programming/datetime/current-datetime
 from datetime import date
 
